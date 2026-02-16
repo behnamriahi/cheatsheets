@@ -14,6 +14,7 @@ This repository contains a collection of technical cheatsheets for various tools
 | Topic | Description | Link |
 |-------|-------------|------|
 | **Bash/Shell Scripting** | Bash and shell scripting guide | [View](en/bash-scripting-cheatsheet.md) |
+| **Chrony** | Time synchronization with NTP | [View](en/chrony-cheatsheet.md) |
 | **CI/CD** | Continuous Integration and Continuous Deployment | [View](en/cicd-cheatsheet.md) |
 | **Docker** | Container management and Docker commands | [View](en/docker-cheatsheet.md) |
 | **Elasticsearch** | Search and analytics engine | [View](en/elasticsearch-cheatsheet.md) |
@@ -46,6 +47,7 @@ Each cheatsheet provides quick reference commands, examples, and best practices 
 | موضوع | توضیحات | لینک |
 |-------|---------|------|
 | **Bash/Shell Scripting** | راهنمای اسکریپت‌نویسی Bash و Shell | [مشاهده](fa/bash-scripting-cheatsheet.md) |
+| **Chrony** | همگام‌سازی زمان با NTP | [مشاهده](fa/chrony-cheatsheet.md) |
 | **CI/CD** | یکپارچه‌سازی مداوم و استقرار مداوم | [مشاهده](fa/cicd-cheatsheet.md) |
 | **Docker** | مدیریت کانتینر و دستورات Docker | [مشاهده](fa/docker-cheatsheet.md) |
 | **Elasticsearch** | موتور جستجو و تحلیل | [مشاهده](fa/elasticsearch-cheatsheet.md) |
